@@ -1,12 +1,38 @@
-# React + Vite
+# 📌 SI Notes
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**SI Notes** é um site pessoal desenvolvido com **React JS** para armazenar e organizar meus estudos da faculdade de **Sistemas de Informação**. O objetivo é criar um ambiente estruturado para registrar o conhecimento adquirido ao longo do curso, ao mesmo tempo em que pratico desenvolvimento web. 🚀
 
-Currently, two official plugins are available:
+## 🎯 Objetivo do Projeto
+- Criar um **repositório de conhecimento** sobre os conteúdos estudados na faculdade.
+- Desenvolver um projeto **prático** para reforçar o aprendizado em **React JS** e outras tecnologias web.
+- Explorar ferramentas e boas práticas de **desenvolvimento front-end**.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Tecnologias Utilizadas
+- **React JS** – Biblioteca JavaScript para construção da interface.
+- **Vite** – Ferramenta para criação e build do projeto.
+- **HTML & CSS** – Estrutura e estilização das páginas.
+- **JavaScript (ES6+)** – Lógica e interatividade do site.
 
-## Expanding the ESLint configuration
+## 🚀 Como Executar o Projeto
+Para rodar o projeto localmente, siga os passos:
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. **Clone o repositório**:
+   ```sh
+   git clone https://github.com/seu-usuario/sinotes.git
+
+2. **Acesse a pasta do projeto:**:
+   ```sh
+   cd sinotes
+
+3. **Instale as dependências:**:
+   ```sh
+   npm install
+   
+3. **Inicie o servidor de desenvolvimento**:
+   ```sh
+   npm run dev
+
+<p align="center">
+  Criado com amor ❤️ por Deyvid Matheus
+</p>
+
