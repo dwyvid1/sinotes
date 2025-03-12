@@ -1,0 +1,27 @@
+.header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 150px;
+    background-color: #282c34;
+    color: white;
+    text-align: center;
+    width: 100%;
+  }
+  
+  .header h1 {
+    margin: 0;
+    font-size: 2rem;
+  }
+  
+  .header a {
+    color: #61dafb;
+    text-decoration: none;
+    font-size: 1.2rem;
+    margin-top: 10px;
+  }
+  
+  .header a:hover {
+    text-decoration: underline;
+  }
